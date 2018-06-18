@@ -8,4 +8,4 @@ github_username:  igardenaua
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
